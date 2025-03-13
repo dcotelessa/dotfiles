@@ -1,0 +1,7 @@
+[tools]
+node = "20.18.1"
+yarn = "1.22.0"
+go = "latest"
+bun = "latest"
+deno = "latest"
+pnpm = "8.6.10"
